@@ -1,6 +1,6 @@
 # Instagram-like project
 
-Instagram-like project it's an instagram like app built in node.js, React and Redux. The porpuse of this repo it's just self-learning.
+Instagram-like project it's an instagram like app built in node.js, React and Redux. The purpose of this repo it's just self-learning.
 
 ## Getting Started
 
